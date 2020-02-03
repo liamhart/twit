@@ -10,10 +10,10 @@ import tweepy
 import numpy as np
 import matplotlib.pyplot as plt
 
-consumer_key = 'aIebVTqqpwsTG3ps4uKqXiktm'
-consumer_secret = 'Lb88TLKTbb26YZgdneWJZeYgPHnHfWY6UMMN2YfB5OjYgjjXHt'
-access_token = '622231144-CXjGU4RsfeIHdiQvheaAJaIMaLHkA5ZWFJNlC2SY'
-access_token_secret = '2QFrdlE9ywxheWd8mwGy5cpLwDAbzyEVGthxVzR0L0kPe'
+consumer_key = <consumer_key>
+consumer_secret = <consumer_secret>
+access_token = <access_token>
+access_token_secret = <access_token_secret>
 
 
 
